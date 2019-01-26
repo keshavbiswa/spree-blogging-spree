@@ -1,3 +1,7 @@
+This is a simple fork to make the blogging gem work with Spree 3.5.x.
+
+Trying to make as few edits as possible. Let us see how it goes.
+
 SpreeBloggingSpree
 ==================
 
